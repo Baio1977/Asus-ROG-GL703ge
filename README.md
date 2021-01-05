@@ -1,0 +1,1 @@
+# Asus-ROG-GL703ge-
