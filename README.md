@@ -15,12 +15,12 @@
 
 ## DPCIManager Screenshot
 
-![infodp1](./Screenshot/3.png)
-![infodp2](./Screenshot/4.png)
+![infodp1](./Screenshot/2.png)
+![infodp2](./Screenshot/3.png)
 
 ## TouchPad and Gesture
 
-![infodp1](./Screenshot/5.png)
+![infodp1](./Screenshot/4.png)
 
 ### What works and What doesn't or WIP:
 
