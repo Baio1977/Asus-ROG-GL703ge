@@ -1,5 +1,4 @@
 # Asus-ROG-GL703ge-
-
 ![infodp1](./Screenshot/2.png)
 
 ### Laptop Spec:
