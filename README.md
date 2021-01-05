@@ -1,7 +1,7 @@
 # Asus-ROG-GL703ge-
 
-![infodp1](./Screenshot/1.jpg)
-![infodp1](./Screenshot/2.jpg)
+![infodp1](./Screenshot/1.png)
+![infodp1](./Screenshot/2.png)
 
 ### Laptop Spec:
 | Component        | Brank                              |
