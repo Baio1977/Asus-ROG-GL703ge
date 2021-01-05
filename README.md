@@ -4,14 +4,14 @@
 ### Laptop Spec:
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
-| CPU              | Intel i5 10210U                    | 
+| CPU              | Intel I7 8750H                     | 
 | IGPU             | Intel® UHD Graphics 630            |
-| Audio            | Realtek ALC255                     |
+| Audio            | Realtek ALC290                     |
 | Ram              | 16 Gb DDR4 2400 Mhz                |
 | Wifi + Bluetooth | Intel.                             |
 | NVMe             | Samsung 970 Pro 512Gb              |
-| SmBios           | MacbookPro 16.1                    |
-| BootLoader       | OpenCore                           | 
+| SmBios           | MacbookPro 15.1                    |
+| BootLoader       | OpenCore 0.6.5                     | 
 
 ## DPCIManager Screenshot
 
@@ -25,9 +25,9 @@
 ### What works and What doesn't or WIP:
 
 - [x] Intel UHD 630 iGPU HDMI Output
-- [x] ALC255 Internal Speakers
-- [x] ALC255 Native Combojack headphones
-- [x] ALC2255 HDMI Audio Output
+- [x] ALC290 Internal Speakers
+- [x] ALC290 Native Combojack headphones
+- [x] ALC290 HDMI Audio Output
 - [x] All USB Ports 
 - [x] SpeedStep / Sleep / Wake
 - [x] I2C Touchpad with gesture
