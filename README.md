@@ -1,4 +1,4 @@
-# Asus-ROG-GL703ge-
+# Asus ROG GL703ge Bios V 320
 ![infodp1](./Screenshot/1.png)
 
 ### Laptop Spec:
