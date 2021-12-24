@@ -17,7 +17,7 @@
 | Wifi + Bluetooth | Intel.                             |
 | NVMe             | Samsung 970 Pro 512Gb              |
 | SmBios           | MacbookPro 15.1                    |
-| BootLoader       | OpenCore 0.7.3                     | 
+| BootLoader       | OpenCore                           | 
 
 ## DPCIManager Screenshot
 
