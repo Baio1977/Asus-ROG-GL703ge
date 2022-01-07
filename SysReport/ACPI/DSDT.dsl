@@ -1,17 +1,17 @@
 /*
  * Intel ACPI Component Architecture
- * AML/ASL+ Disassembler version 20200925 (64-bit version)
- * Copyright (c) 2000 - 2020 Intel Corporation
+ * AML/ASL+ Disassembler version 20210331 (64-bit version)
+ * Copyright (c) 2000 - 2021 Intel Corporation
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of iASLmx2UFE.aml, Tue Jan  5 12:52:02 2021
+ * Disassembly of iASLEYZDeE.aml, Fri Jan  7 20:33:38 2022
  *
  * Original Table Header:
  *     Signature        "DSDT"
  *     Length           0x00041F04 (270084)
  *     Revision         0x02
- *     Checksum         0x21
+ *     Checksum         0x8C
  *     OEM ID           "_ASUS_"
  *     OEM Table ID     "Notebook"
  *     OEM Revision     0x01072009 (17244169)
@@ -314,7 +314,7 @@ DefinitionBlock ("", "DSDT", 2, "_ASUS_", "Notebook", 0x01072009)
     Name (TPMC, 0xFFFFFFFF)
     Name (TPMM, 0xFED40000)
     Name (FTPM, 0xFED40040)
-    Name (PPIM, 0x7A4D1F98)
+    Name (PPIM, 0x7A52FF98)
     Name (PPIL, 0x1C)
     Name (AMDT, Zero)
     Name (TPMF, One)
@@ -330,7 +330,7 @@ DefinitionBlock ("", "DSDT", 2, "_ASUS_", "Notebook", 0x01072009)
     Name (TOPM, 0x00000000)
     Name (ROMS, 0xFFE00000)
     Name (VGAF, One)
-    OperationRegion (GNVS, SystemMemory, 0x7A437000, 0x0866)
+    OperationRegion (GNVS, SystemMemory, 0x7A495000, 0x0866)
     Field (GNVS, AnyAcc, Lock, Preserve)
     {
         OSYS,   16, 
@@ -13194,7 +13194,7 @@ DefinitionBlock ("", "DSDT", 2, "_ASUS_", "Notebook", 0x01072009)
         }
     }
 
-    Name (PNVB, 0x7A4D1B98)
+    Name (PNVB, 0x7A52FB98)
     Name (PNVL, 0x0290)
     OperationRegion (PNVA, SystemMemory, PNVB, PNVL)
     Field (PNVA, AnyAcc, Lock, Preserve)
@@ -56986,7 +56986,7 @@ DefinitionBlock ("", "DSDT", 2, "_ASUS_", "Notebook", 0x01072009)
         }
     }
 
-    OperationRegion (EXBU, SystemMemory, 0x7A4D1118, 0x0033)
+    OperationRegion (EXBU, SystemMemory, 0x7A52F118, 0x0033)
     Field (EXBU, AnyAcc, Lock, Preserve)
     {
         FADR,   32, 
