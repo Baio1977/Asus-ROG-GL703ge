@@ -21,7 +21,6 @@
 
 ## DPCIManager Screenshot
 
-![infodp1](./Screenshot/2.png)
 ![infodp2](./Screenshot/3.png)
 
 ## TouchPad and Gesture
